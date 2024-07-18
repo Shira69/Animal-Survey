@@ -1,5 +1,8 @@
+/* Dissanayaka Mudiyanselage Shiranga Malru Dissanayaka
+M42W0225 */
+
 {
-  "short_name": "React App",
+  "short_name": "Pet Survey",
   "name": "Create React App Sample",
   "icons": [
     {
